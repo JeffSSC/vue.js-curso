@@ -28,7 +28,7 @@ function mostrarNomeBtn() {
         <div>
             <h2>Testando V-Model</h2>
             <p>
-                O v-model é usado para criar duas-way data binding entre um
+                O v-model é usado para criar two-way data binding entre um
                 elemento de entrada e uma propriedade de dados. Ele permite que
                 você atualize o valor do elemento de entrada e a propriedade de
                 dados simultaneamente. Isso é útil para criar formulários
